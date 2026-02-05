@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "language": "Language"
+  },
+
+  "footer": {
+    "tagline": "Trusted workers for your home. Safe, secure and reliable.",
+    "services": "Services",
+    "babysitting": "Babysitting",
+    "cleaning": "Cleaning",
+    "cooking": "Cooking",
+    "driving": "Driving",
+    "caretaking": "Caretaking",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "career": "Career",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "contact": "Contact Us",
+    "faq": "FAQ",
+    "rights": "All rights reserved"
+  },
+
+  "home": {
+    "hero": {
+      "title": "Find Trusted Home Workers in Thailand",
+      "subtitle": "Professional and reliable service for your home needs",
+      "cta": "Find a Worker"
+    },
+
+    "findWorker": {
+      "title": "Find the Right Worker",
+      "description": "Browse through our verified and trusted home workers"
+    },
+
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": "Search",
+      "step1Desc": "Browse our vetted workers",
+      "step2": "Choose",
+      "step2Desc": "Select the perfect match",
+      "step3": "Book",
+      "step3Desc": "Schedule and get started"
+    }
+  },
+
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "noResults": "No results found",
+    "tryAgain": "Try Again",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit"
+  }
+}
