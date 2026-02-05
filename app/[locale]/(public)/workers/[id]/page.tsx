@@ -356,7 +356,7 @@ export default function WorkerDetailPage({ params }: PageProps) {
                       </svg>
                       <div className="flex flex-col">
                         <span className="text-sm font-medium">Satisfaction Guaranteed</span>
-                        <span className="text-xs text-muted-foreground">Not happy? We'll make it right.</span>
+                        <span className="text-xs text-muted-foreground">Not happy? We&apos;ll make it right.</span>
                       </div>
                     </li>
                   </ul>
